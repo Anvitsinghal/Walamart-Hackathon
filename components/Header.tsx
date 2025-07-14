@@ -35,7 +35,7 @@ function Header() {
               width={150}
               height={150}
             />
-            <p className="text-xs text-white">Cloned By-Vaibhav Saroj</p>
+           
         </Link>
 
         <form
